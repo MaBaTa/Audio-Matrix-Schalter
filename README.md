@@ -10,11 +10,11 @@ Der Matrix Schalter ist in der lage jeden seiner Anschlüsse mit einer von mehre
 
 ##### Hardware:
 
-Bei der Auswahl der Stecker habe ich darauf geachtet nur vergoldete Ausführungen zu verwenden, ob das nun sinnvoll ist oder nicht... Es sollte aber auch baugleiche Ausführungen in Silber und Nickel zu jedem Stecker geben. Leider Musste ich Schalter verwenden die es ausschließlich als import aus China gibt, aufgrund der seltenen Art gab es leider keine alternativen dazu.
+Bei der Auswahl der Stecker habe ich darauf geachtet nur vergoldete Ausführungen zu verwenden, ob das nun sinnvoll ist oder nicht... Es sollte aber auch baugleiche Ausführungen in Silber und Nickel zu jedem Stecker geben. Leider Musste ich Schalter verwenden die es ausschließlich als import aus China gibt, aufgrund der seltenen Art gab es keine Alternativen dazu.
 
 ##### Matrix Schalter 10x5:
 
-Der Matrix Schalter 10x5 hat insgesamt 10 Stereo Ein-/Ausgänge welche auf 5  Stereo Rails aufgelegt werden können. Es ist nicht möglich die beiden Kanäle auf unterschiedliche Rails aufzulegen. Dies vereinfacht die Bediening und die Komplexität des Aufbaus.
+Der Matrix Schalter 10x5 hat insgesamt 10 Stereo Ein-/Ausgänge welche auf 5 Stereo Rails aufgelegt werden können. Es ist nicht möglich die beiden stereo Kanäle auf unterschiedliche Rails aufzulegen. Dies vereinfacht die Bediening und die Komplexität des Aufbaus.
 
 Der Matrix Schalter 10x5 hat folgende Konnektivität:
 
