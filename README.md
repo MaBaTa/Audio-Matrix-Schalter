@@ -6,11 +6,11 @@ by Tristan Wieczorek
 
 ##### Funktionsbeschreibung:
 
-Der Matrix Schalter ist in der lage jeden seiner Anschlüsse mit eine von mehreren Rails zu verbinden. Durch das Aufschalten einer Quelle auf eine Rail beliebig Senken auf die selber Rail geschalten werden und sind somit mit ihr verbunden. Dabei ist zu beachten das es sich lediglich um einen Schalter handelt, es sollten nur hochohmige Senken zusammengeschaltet werden. Beim aufschalten mehrerer Kopfhörer kann die Quelle überlastet werden.
+Der Matrix Schalter ist in der lage jeden seiner Anschlüsse mit einer von mehreren Rails zu verbinden. Durch das Aufschalten einer Quelle auf eine Rail können beliebig Senken auf die selbe Rail geschalten werden und sind somit mit ihr verbunden. Dabei ist zu beachten das es sich lediglich um einen Schalter handelt, es sollten nur hoch-Ohmige Senken zusammengeschaltet werden. Beim Aufschalten mehrerer Kopfhörer kann die Quelle überlastet werden.
 
 ##### Hardware:
 
-Bei der auswahl der Stecker habe ich darauf geachtet nur vergoldete Ausführungen zu verwenden, ob das nun sinnvoll ist oder nicht... Es sollte aber auch baugleiche Ausführungen in Silber und Nickel zu jedem Stecker geben. Leider Musste ich Schalter verwenden die es ausschließlich als import aus China gibt, aufgrund der seltenen Art gab es leider keine alternativen dazu.
+Bei der Auswahl der Stecker habe ich darauf geachtet nur vergoldete Ausführungen zu verwenden, ob das nun sinnvoll ist oder nicht... Es sollte aber auch baugleiche Ausführungen in Silber und Nickel zu jedem Stecker geben. Leider Musste ich Schalter verwenden die es ausschließlich als import aus China gibt, aufgrund der seltenen Art gab es leider keine alternativen dazu.
 
 ##### Matrix Schalter 10x5:
 
